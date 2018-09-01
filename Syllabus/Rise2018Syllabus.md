@@ -109,7 +109,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### October 8
 +  Evelina, 300-450
-+ Free indirect discourse and narrative monologue handout based on Cohn, *Transparent Minds*
++ Free indirect discourse and narrative monologue handout based on Cohn, *Transparent Minds* and Ferguson, "Jane Austen, Emma, and the Impact of Form"
 
 ##### October 10
 + Evelina, 300-450
@@ -166,7 +166,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 + *The Moonstone*, continued
 + Roland Barthes, "The Reality Effect"
 
-### Week 10: Henry James, *Daisy Miller*
+### Week 11: Henry James, *Daisy Miller*
 
 ##### November 12
 + *Daisy Miller*, all
@@ -180,7 +180,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 + Jameson, "The Realist Floor-plan"
 + Exercise 7 due; exercise 8 assigned
 
-### Week 11: Virginia Woolf, *To The Lighthouse* (1927)
+### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
 ##### November 19
 + *To The Lighthouse* first half
