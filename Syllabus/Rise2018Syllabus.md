@@ -37,12 +37,11 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 + *Robinson Crusoe*, 3(Preface)-56
 + Social Media Lecture 1: The Novel and Social Media
 + close reading a novel
-+ exercise 1 assigned
 
 ##### September 7
 + *Robinson Crusoe*, continued
 + selection from Watt, *The Rise of the Novel*
-+ exercise 1 due, exercise 2 assigned
++ exercise 1/2 assigned
 
 ### Week 2: *Robinson Crusoe* (1719)
 
@@ -57,7 +56,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ##### September 14
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
 + Gallagher, excerpt from "The Rise of Fictionality"
-+ exercise 2 due
++ exercise 1/2 due
 
 ### Week 3: *Pamela* (1740)
 
