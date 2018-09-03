@@ -35,7 +35,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### September 5
 + *Robinson Crusoe*, 3(Preface)-56
-+ Social Media Lecture 1: The Novel and Social Media
++ **Social Media Lecture 1: The Novel and Social Media**
 + close reading a novel
 
 ##### September 7
@@ -51,7 +51,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### September 12
 + *Robinson Crusoe*, continued
-+ Social Media Lecture 2: Everyday People are Celebrities, Too
++ **Social Media Lecture 2: Everyday People are Celebrities, Too**
 
 ##### September 14
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
@@ -81,7 +81,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### September 26
 + *Shamela*, continued
-+ Social Media Lecture 3: Fictional Characters Make You Real
++ **Social Media Lecture 3: Fictional Characters Make You Real**
 + Exercise 3 due; [exercise4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) assigned
 
 ##### September 28
@@ -94,7 +94,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### October 3
 + *Evelina*, 200-250
-+ Social Media Lecture 3: Questions of Truth and Questions of Virtue Signaling
++ **Social Media Lecture 4: Questions of Truth and Questions of Virtue Signaling**
 + Plain-text authoring: an introduction
 [Exercise 4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) steps 1-5 due; exercise 5 assigned
 
@@ -112,7 +112,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### October 10
 + Evelina, 300-450
-+ Social Media Lecture 4: A Private Oriented to a Public
++ **Social Media Lecture 5: A Private Oriented to a Public**
 + Short paper due by midnight October 13th
 + [Exercise 5](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_5.md) assigned
 
@@ -131,7 +131,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 + *Northanger Abbey*, continued
 + Exercise 5 due
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
-+ Social Media Lecture 6: Other People Hold You in Mind
++ **Social Media Lecture 6: Other People Hold You in Mind**
 
 ##### October 26
 + *Northanger Abbey*, continued
@@ -158,7 +158,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 ##### November 7
 + Exercise 6 due; exercise 7 assigned
 + Exercise 7 assigned (optional)
-+ Lecture 7: We Are Watched From Above
++ **Social Media Lecture 7: We Are Watched From Above**
 + *The Moonstone*, continued
 
 ##### November 9
@@ -186,7 +186,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 
 ##### November 21
 + *To The Lighthouse*
-+ Social Media Lecture 8: The Realist Detail
++ **Social Media Lecture 8: The Realist Detail**
 + Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
 + [public books roundtable on Description in the Novel] http://www.publicbooks.org/virtual-roundtable-ondescription-in-the-novel/
 
@@ -212,7 +212,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 + Final paper/project plans due; final paper meetings with me this week
 
 ##### December 5
-+ Social media 9: Global Platform
++ **Social media 9: Global Platform**
 + exercise 9 due
 + Henry James, from the Preface to The Portrait of a Lady (1908) handout
 + Homi Bhabha, “The World and the Home” handout
