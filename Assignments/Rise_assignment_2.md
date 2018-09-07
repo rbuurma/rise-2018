@@ -70,6 +70,4 @@ You have eyeballed a comparison between the map printed in *Robinson Crusoe* and
 
 Note: This is a new assignment; milage will vary. We would very much like to hear of any problems you have in order to make the next iteration cleaner.
 
-The archival version of our syllabus will be deposited in our Dropbox folder. The most up-to-date copy of our syllabus and exercises will be available on github: https://github.com/rbuurma/rise_2015
-
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
