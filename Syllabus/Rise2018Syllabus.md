@@ -55,7 +55,7 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 
 ##### September 14
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
-+ Gallagher, excerpt from "The Rise of Fictionality"
++ Gallagher, excerpt from "The Rise of Fictionality," pp. 336-349, 361
 + exercise 1/2 due
 
 ### Week 3: *Pamela* (1740)
