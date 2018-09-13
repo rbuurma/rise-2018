@@ -76,7 +76,7 @@ Once you've navigated to the appropriate folder, try opening the NER by entering
 
 **For other issues,** refer to the very complete instructions in Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) or ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope*.
 
-**If you are still stuck, ask a classmate who has done the exercise successfully or move on to the NER raw output file in our Week 1 folder.**
+**If you are still stuck, ask a classmate who has done the exercise successfully or move on to the NER raw output file in our Week 2 folder.**
 
 ## Manipulate and Clean Your Data
 
