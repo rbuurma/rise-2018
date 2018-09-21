@@ -87,6 +87,8 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ##### September 28
 + McKeon, "Generic Transformation and Social Change"
 
+**Draft of short paper thesis due to Known on September 30th**
+
 ### Week 5: *Evelina* (1778)
 
 ##### October 1
@@ -104,6 +106,8 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 + Selection from Habermas, *The Structural Transformation of the Public Sphere*
 + [Exercise 4](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_4.md) writeup due.
 
+**Brief list of evidence you will close read in short paper due to Known by October 7th.**
+
 ### Week 6: *Evelina* (1778) continued
 
 ##### October 8
@@ -117,6 +121,8 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 + [Exercise 5](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_5.md) assigned
 
 ##### October 12
+
+**Short paper to Dropbox “short paper” folder by midnight on October 14th (or first thing October 15th, however you see it).**
 
 ### Week 7: October Holiday
 Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
