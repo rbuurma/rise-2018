@@ -5,7 +5,7 @@
 + time: MWF 10:30-11:20
 + location: LPAC 301
 + office: LPAC 302 and Parrish W201
-+ office hours: W 1-3 in Parrish 205W and by appointment
++ office hours: W 2-4 in Parrish 205W and by appointment
 + email: rbuurma1@swarthmore.edu
 + eligible for GSST and INTP credit; fulfills the 18th/19th c distribution in the English major and minor
 
@@ -117,10 +117,10 @@ This class is suggested for readers, writers, critics, and reviewers of fiction,
 ##### October 10
 + Evelina, 300-450
 + **Social Media Lecture 5: A Private Oriented to a Public**
-+ Short paper due by midnight October 13th
-+ [Exercise 5](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_5.md) assigned
 
 ##### October 12
++ Short paper due by midnight October 13th
++ [Exercise 5](https://github.com/rbuurma/rise-2017/blob/master/Assignments/Rise_assignment_5.md) assigned
 
 **Short paper to Dropbox “short paper” folder by midnight on October 14th (or first thing October 15th, however you see it).**
 
