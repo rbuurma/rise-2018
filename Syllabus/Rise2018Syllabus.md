@@ -182,19 +182,17 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 
 ##### November 16
 + *Daisy Miller*, continued
-+ Jameson, "The Realist Floor-plan"
-+ Exercise 7 due; exercise 8 assigned
++ Exercise 7 assigned
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
 ##### November 19
 + *To The Lighthouse* first half
++ Jameson, "The Realist Floor-plan"
 
 ##### November 21
 + *To The Lighthouse*
 + **Social Media Lecture 8: The Realist Detail**
-+ Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
-+ [public books roundtable on Description in the Novel] http://www.publicbooks.org/virtual-roundtable-ondescription-in-the-novel/
 
 ##### November 23
 + Thanksgiving break begins after class
@@ -205,7 +203,9 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 + *To The Lighthouse*,continued
 
 ##### November 28
-+ Exercise 8 due; exercise 9 assigned
++ Exercise 7 due; exercise 8 assigned
++ Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
++ [public books roundtable on Description in the Novel] http://www.publicbooks.org/virtual-roundtable-ondescription-in-the-novel/
 
 ##### November 30
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
@@ -219,7 +219,7 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 
 ##### December 5
 + **Social media 9: Global Platform**
-+ exercise 9 due
++ exercise 8 due
 + Henry James, from the Preface to The Portrait of a Lady (1908) handout
 + Homi Bhabha, “The World and the Home” handout
 
