@@ -192,7 +192,6 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 
 ##### November 21
 + *To The Lighthouse*
-+ **Social Media Lecture 8: The Realist Detail**
 
 ##### November 23
 + Thanksgiving break begins after class
@@ -204,12 +203,12 @@ Note: read *Northanger Abbey* and excerpts from *A Woman of Color*.
 
 ##### November 28
 + Exercise 7 due; exercise 8 assigned
-+ Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html), exercises 1-7
-+ [public books roundtable on Description in the Novel] http://www.publicbooks.org/virtual-roundtable-ondescription-in-the-novel/
 
 ##### November 30
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
++ **Social Media Lecture 8: The Realist Detail**
 + Discuss criticism exam
++ Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html)
 
 ### Week 14: *A House for Mr. Biswas* (1961)
 
