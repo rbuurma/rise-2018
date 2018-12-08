@@ -157,7 +157,7 @@ Based on only what you see here, what is potentially wrong with Blatt’s exampl
 
 ### Extra credit 3 (for anyone and everyone) (in progress)
 
-Underwood et al paper
+Underwood paper
 
 ### Citations and related work (revision in progress)
 
@@ -186,8 +186,6 @@ Buurows,
 Add Austen computation book
 
 Reread Richard Jean So model article, perhaps add
-
-Jesus add some more women - add the novel theory
 
 Catherine Gallagher
 
