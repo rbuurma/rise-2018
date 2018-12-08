@@ -92,7 +92,7 @@ Warning: depending on your configuration and computer, installing Python 3 could
 
 Before we run the program, let's let's take a quick look at it.
 
-1. Download the [Rise18-Assignment8](https://github.com/rbuurma/Rise-18-Assignment8)repository into your own computer. Save it somewhere that makes sense to you.
+1. Download the [Rise18-Assignment8](https://github.com/rbuurma/Rise18-Assignment8)repository into your own computer. Save it somewhere that makes sense to you.
 
 2. If you haven't already installed [the Atom code editor](https://atom.io/), do so now.
 
