@@ -1,6 +1,8 @@
+revision plan: use BookNLP?
+
 # People, Places, Time, Money: Listing *Robinson Crusoe*
 
-We saw that in *The Rise of the Novel*, Ian Watt argues that, like the jury in a court of law, the readers of a novel expect
+As we have noticed, in *The Rise of the Novel*, Ian Watt argues that, like the jury in a court of law, the readers of a novel expect
 
 >to know 'all the particulars' of a given case - the _time_ and _place_ of the occurrence; both must be satisfied as to the _identities_ of the parties concerned, and will refuse to accept evidence about anyone called Sir Toby Belch or Mr. Badman -- still less about a Chloe who has no surname and is 'common as the air'...". (31, emphasis added)
 
@@ -167,7 +169,7 @@ What else?
 
 ----------
 
-This assignment is indebted to Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) and ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in *The Historian's Macroscope*.  I was also inspired by Scott Enderle's thinking about the value of lists in his ["Against Visualization"](https://readingfromadistance.wordpress.com/2015/04/18/against-visualization/) post at Skidmore's [Reading From A Distance](https://readingfromadistance.wordpress.com/). And a huge thanks to Nabil Kashyap for tireless testing and invaluable suggestions.
+This assignment is indebted to Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) and ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in *The Historian's Macroscope*.  I was also inspired by Scott Enderle's thinking about the value of lists in his ["Against Visualization"](https://readingfromadistance.wordpress.com/2015/04/18/against-visualization/) post at Skidmore's [Reading From A Distance](https://readingfromadistance.wordpress.com/). And a huge thanks to Nabil Kashyap for tireless testing and invaluable suggestions in some earlier versions of this assignment.
 
 Note: The tools we use in this assignment vary in their compatiblity with the particular on the machine you may be using; milage will vary. We would very much like to hear of any problems you have in order to make the next iteration cleaner.
 

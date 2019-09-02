@@ -14,7 +14,7 @@ The steps are simple.
 
 1.  Create a new copy of the data for this assignment.
 
-2.  Using TextWrangler or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.) You can also further clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.)
+2.  Using Atom, BBEdit, or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.) You can also further clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.)
 
 3.  Now you need to remove the "LOCATION" tags to avoid confusing My Maps. To do this, open the "find" box or similar find-and-replace function. In "find" put everything between the quotation marks here (the word LOCATION, the colon, and a space):
 
